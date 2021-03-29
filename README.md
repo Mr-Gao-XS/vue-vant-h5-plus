@@ -2,10 +2,6 @@
 
 基于 vue-cli4.0 + webpack 4 + vant ui + sass+ rem 适配方案+axios 封装，构建手机端模板脚手架
 
-<p>
-  <img src="./static/demo.png" width="320" style="display:inline;">
-</p>
-
 ### Node 版本要求
 
 `Vue CLI` 需要 Node.js 8.9 或更高版本 (推荐 8.11.0+)。你可以使用 [nvm](https://github.com/nvm-sh/nvm) 或

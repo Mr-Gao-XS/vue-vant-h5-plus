@@ -4,8 +4,6 @@
 
 #### 介绍
 
-[关于项目介绍](https://segmentfault.com/a/1190000019275330)
-
 1.  vuecli3.0
 2.  多环境开发
 3.  axios 封装
@@ -16,11 +14,8 @@
 
 #### 多环境
 
-之前写过一个多环境的方案，是基于 vue-cli2.0 的 [vue 多环境配置方案-传送门](https://segmentfault.com/a/1190000019136606)
-最近新的项目采用了 vuecli3.0 开始了一番折腾
-
-这里参考了[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) 基本思路不变在 src 的文件里新建 config
-根据不同的环境去引用不同的配置文件，不同的是在根目录下有三个设置环境变量的文件这里可以参考 vue-admin-template
+基本思路不变在 src 的文件里新建 config 根据不同的环境去引用不同的配置文件，不同的是在根目录下有三个设置环境变量的文件这
+里可以参考 vue-admin-template
 
 #### rem 适配方案
 

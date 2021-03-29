@@ -1111,8 +1111,3 @@ Vscode setting.json 设置
 ```
 
 [▲ 回顶部](#top)
-
-# 鸣谢 ​
-
-[vue-cli4-config](https://github.com/staven630/vue-cli4-config)  
-[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)

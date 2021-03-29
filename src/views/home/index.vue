@@ -29,6 +29,7 @@ export default {
         'lodash',
         'g-zip',
         '全局filters',
+        '.prettierrc 单独配置',
         '全局mixins',
         'directives 自定义指令',
         'vant初始化tab菜单',
